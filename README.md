@@ -9,5 +9,7 @@ To speed up, it uses parallel computation (300 images in ~2 minutes, using 4 cor
 I have tested the program, analyzing my own images from calcium-binding adapter molecule 1 (IBA-1) inmunostaining (microglia marker) 
 and tyrosine hydroxylase (TH) inmunostaining (dopaminergic neuron marker). 
 
-As soon as I publish a paper in a procedding or scientific journal I will upload the complete code. 
+As soon as I publish the paper in a procedding or scientific journal I will upload the complete code. Before that, if you are interested in colaborate send me an email (marco.pena@unmsm.edu.pe).
+
+
 
