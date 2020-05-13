@@ -8,3 +8,6 @@ integrated intensity, area percent and mean gray value.
 To speed up, it uses parallel computation (300 images in ~2 minutes, using 4 cores). 
 I have tested the program, analyzing my own images from calcium-binding adapter molecule 1 (IBA-1) inmunostaining (microglia marker) 
 and tyrosine hydroxylase (TH) inmunostaining (dopaminergic neuron marker). 
+
+As soon as I publish and paper in a procedding or in a scientific journal I will up load the complete code. 
+
