@@ -1,5 +1,7 @@
 # Cyt
 
+automatic image analysis for immunofluorescence quantification
+
 Scientists use to analyses microscopic images in ImageJ. Some of them use ImageJ macros to save time. 
 There are few who program scripts in java to fully automate the process. In contrast, python is language 
 widespread in scientific community. My main goal was to automate immunofluorescence-inmunohistochemistry 
