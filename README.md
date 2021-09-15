@@ -11,5 +11,6 @@ and tyrosine hydroxylase (TH) inmunostaining (dopaminergic neuron marker).
 
 I used this code in my honors thesis. As soon as I defend and publish it, I will put the way to cite the program. Meanwile, you should cite ImageJ because the program use it in the analysis. If you have any doubt or improvement, just send me an email (marco.pena@unmsm.edu.pe). 
 
+Note: It runs in Python 3. 
 
 
