@@ -9,7 +9,7 @@ To speed up, it uses parallel computation (300 images in ~2 minutes, using 4 cor
 I have tested the program, analyzing my own images from calcium-binding adapter molecule 1 (IBA-1) inmunostaining (microglia marker) 
 and tyrosine hydroxylase (TH) inmunostaining (dopaminergic neuron marker). 
 
-I used this code in my honors thesis. As soon as I defend and publish it, I will put the way to cite the program. If you have any doubt or improvement, just send me an email (marco.pena@unmsm.edu.pe). 
+I used this code in my honors thesis. As soon as I defend and publish it, I will put the way to cite the program. Meanwile, you should cite ImageJ beacuse the program use it in the analysis. If you have any doubt or improvement, just send me an email (marco.pena@unmsm.edu.pe). 
 
 
 
