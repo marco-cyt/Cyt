@@ -1,0 +1,10 @@
+input = getArgument;
+if (input=="") exit ("No argument!");
+setBatchMode(true);
+delimiter = "/";
+path = input; 
+temp = split(path,delimiter);
+open(input);
+run("Subtract Background...", "rolling=50 light sliding");
+output= "temporal/" + "out" + temp[1]; 
+saveAs("Tiff", output);
